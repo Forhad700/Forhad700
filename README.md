@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤝, I'm Forhad</h1>
-<h3 align="center">AI/ML Enthusiast || Problem Solver || Competitive Programmer</h3>
+<h3 align="center">AI Software Engineer || Problem Solver || Competitive Programmer</h3>
 
 - 🌱 I’m currently learning **Software Development, Artificial Intelligence, Machine Learning**
 
