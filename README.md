@@ -1,9 +1,9 @@
 <h1 align="center">Hi 🤝, I'm Forhad</h1>
 <h3 align="center">AI/ML Enthusiast || Problem Solver || Competitive Programmer</h3>
 
-- 🌱 I’m currently learning **Software Development, Artificial Intelligence, Machine Learning**
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning**
 
-- 📫 How to reach me **f370045@gmail.com**
+- 📫 How to reach me **forhadhosen0077@gmail.com**
 
 - ⚡ To Achieve Goals? **Highly Determined Person ✅**
 
