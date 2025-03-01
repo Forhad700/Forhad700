@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🖐, I'm Forhad</h1>
 <h3 align="center">AI/ML Enthusiast || Machine Learning || Data Science || Generative AI</h3>
 
-- 🌱 I’m currently learning **Generative AI, Large Language Model (LLM)**
+- 🌱 I’m currently learning **Generative AI, Large Language Models (LLMs)**
 
 - 👨‍💻 All of my projects are available at [https://forhadhosen.netlify.app/templates/index.html](https://forhadhosen.netlify.app/templates/index.html)
 
