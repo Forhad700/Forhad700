@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🖐, I'm Forhad</h1>
-<h3 align="center">AI/ML Enthusiast || Machine Learning || Data Science || Generative AI</h3>
+<h3 align="center">AI/ML Enthusiast || Generative AI || Machine Learning || Data Science</h3>
 
 - 🌱 I’m currently learning **Generative AI, Large Language Models (LLMs)**
 
