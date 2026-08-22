@@ -1,7 +1,5 @@
-<h1 align="center">Hi 🎉, I'm Forhad Hosen</h1>
-<h3 align="center">A passionate 🤖 AI/ML Engineer || 💻 Software Developer from Bangladesh</h3>
-
-- 👨‍💻 All of my projects are available at [https://forhadhosen.netlify.app/templates/index.html](https://forhadhosen.netlify.app/templates/index.html)
+<h1 align="center">Hi 👋, I'm Forhad Hosen</h1>
+<h3 align="center">💻 Innovative Programmer | AI/ML 🤖 | Cybersecurity 🔐</h3>
 
 - 📫 How to reach me **forhadhosen.cs@gmail.com**
 
