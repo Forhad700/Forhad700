@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Forhad Hosen</h1>
-<h3 align="center">💻 Innovative Programmer || AI/ML 🤖 || Cybersecurity 🔐</h3>
+<h3 align="center">💻 Innovative Programmer ||  AI/ML 🤖 || Cybersecurity 🔐</h3>
 
 - 📫 How to reach me **forhadhosen.cs@gmail.com**
 
